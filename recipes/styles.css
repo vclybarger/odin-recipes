@@ -1,3 +1,31 @@
 * {
     background-color: #e3ceb9;
 }
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 5px;
+}
+
+h2 {
+    background-color: dimgrey;
+    color: azure;
+}
+
+div {
+    background: rgb(255 84 104 / 30%);
+    border: 2px solid rgb(255 84 104);
+    padding: 10px;
+    margin: 10px;
+}
