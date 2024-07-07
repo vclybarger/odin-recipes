@@ -1,6 +1,4 @@
-* {
-    background-color: #e3ceb9;
-}
+
 
 body {
     width: 1000px;
@@ -24,8 +22,8 @@ h2 {
 }
 
 div {
-    background: rgb(255 84 104 / 30%);
-    border: 2px solid rgb(255 84 104);
+    background: #e3ceb9;
+    border: 2px solid #cda882;
     padding: 10px;
     margin: 10px;
 }
